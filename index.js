@@ -1,8 +1,6 @@
 module.exports = getGithubData
 
-function makeGitterURL (username) {
-  return `https://gitter.im/${username}/~embed`
-}
+
 
 var exampleProfile = {
   name: 'nina',
