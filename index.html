@@ -48,17 +48,6 @@ var css1 = csjs`
       padding:1px;
     }
 `
-
-
-var exampleProfile = {
-  name: 'nina',
-  username: 'ninabreznik',
-  photo:'https://nomadlist.com/assets/img/cities/phuket-thailand-500px.jpg'
-}
-function makeGitterURL (username) {
-  return `https://gitter.im/${username}/~embed`
-}
-	    
 function makeGitterChatbox (profile) {
   return bel`
     <div class=${css1.chatbox}>
@@ -69,11 +58,16 @@ function makeGitterChatbox (profile) {
     </div>
   `
 }
-makeGitterChatbox(exampleProfile)
-//var x = makeGitterChatbox(exampleProfile)
-//document.body.appendChild(x)
+
+var x = makeGitterChatbox(exampleProfile)
+document.body.appendChild(x)
+
+
+
 
 	    </script>
 	  </body>
 	</html>
+
+
 
