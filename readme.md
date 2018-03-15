@@ -11,7 +11,7 @@ same as:
 have tried 2 ways to let chatBox to success & both of them failed
 
 
-<1. repo of [makeGitterChatbox](https://github.com/kiecoo/makeGitterChatbox/blob/master/index.html)>   :[output](https://kiecoo.github.io/makeGitterChatbox/) is all blank
+don't do this one <1. repo of [makeGitterChatbox](https://github.com/kiecoo/makeGitterChatbox/blob/master/index.html)>   :[output](https://kiecoo.github.io/makeGitterChatbox/) is all blank
 
 
 In html:
