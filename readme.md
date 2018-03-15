@@ -1,5 +1,6 @@
 # try-gitter-chatBox
 same as:
+
 (1) all in js(success in Codepen) :    https://codepen.io/kiecoo/pen/PQZdOO
 
 (2) separate into html &js (success in Codepen): https://codepen.io/kiecoo/pen/YaqdJv
