@@ -1,3 +1,5 @@
+
+//index.js
 module.exports = gitterChat
 
 function makeGitterURL (username) {
